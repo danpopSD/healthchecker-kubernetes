@@ -1,3 +1,9 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: critical-app
+---
 apiVersion: v1
 kind: Service
 metadata:
